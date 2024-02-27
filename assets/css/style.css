@@ -3753,9 +3753,10 @@ h2 {
   width: 383px;
   height: 401px;
 }
+
 img.ch2_img {
-  height: 311px;
-  margin-top: 43px;
+  height: 334px;
+  margin-top: 30%;
 }
 /* responsive code */
 @media screen and (max-width: 768px) {
