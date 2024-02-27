@@ -3746,7 +3746,17 @@ h2 {
   text-align: center;
   background: #fcfc03e2;
 }
-
+.main_img {
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  width: 383px;
+  height: 401px;
+}
+img.ch2_img {
+  height: 311px;
+  margin-top: 43px;
+}
 /* responsive code */
 @media screen and (max-width: 768px) {
   h2 {
